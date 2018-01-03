@@ -1,0 +1,2 @@
+# RunTimeModel
+用Runtime获取model的属性和对应的值
